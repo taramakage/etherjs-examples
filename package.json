@@ -1,0 +1,28 @@
+{
+  "name": "erc-1155",
+  "version": "1.0.0",
+  "description": "Javascript API Demo for ERC-1155.",
+  "main": "erc1155.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taramakage/erc-1155.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taramakage/erc-1155.js/issues"
+  },
+  "homepage": "https://github.com/taramakage/erc-1155.js#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.3",
+    "web3": "^1.8.0"
+  },
+  "dependencies": {
+    "solc": "^0.8.17"
+  }
+}
